@@ -1,7 +1,9 @@
 Hello!
 
-DETAILS:
--------
+My name is Sreevathsa Golla. This is a project that I was part of, on prediction of bioactivity of IC50 type molecules in SARS Coronavirus, using different machine learning algorithms. This was my first real-world application of machine learning that I learnt,
+This was a team project which was done as part of an academic course on AI and it's scientific applications. More details of the project are given in the Project Description file. Given below is a description of files present in this repository.
+
+*Details:*
 -> All the database files (.csv) downloaded/modified, during running the project's Jupyter notebook 
 have been stored in the 'Results' folder.
 -> The 'BioinformaticsProject_SARSCoronavirus.ipynb' Jupyter Notebook has all the segments
@@ -11,10 +13,10 @@ understandings in it.
 -> 'environment-bioinformatics-project.yaml' is the Python environment we used for this project.
 You can use this file to reconstruct the environment to run the project yourself.
 
-(This was a team project, relevant details of the team members has been mentioned in the notebook as well as 
+(Relevant details of the team members has been mentioned in the notebook as well as 
 project description files.)
 
-Please do email me incase you hace any queries/issues: sreevathsa18@iiserb.ac.in
+Please do email me incase you have any queries/issues: sreevathsa18@iiserb.ac.in
 
-Thank you !
+Thank you and have a great day!
 
